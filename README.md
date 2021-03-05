@@ -1,5 +1,5 @@
 # core4investsplitter
-How to split up money to invest using the Core 4 "lazy" portfolio (use at own risk).
+How to split up money to invest using the Core 4 "lazy" portfolio. Use at own risk.
 I'm not kidding; investing is inherently risky and you could lose real money. Proceed at your own risk. 
 
 Description:
@@ -13,7 +13,7 @@ Download the core4portfoliosplitter.py file from the https://github.com/RainyCit
 To use:
 1) Open file with your choice of Python-3-capable IDE, or run in a terminal capable of running Python 3 files. 
 2) Run the program.
-3) Program will first ask for a dollar amount (no cents). This is the total amount you wish to invest. Commas will be stripped out.
+3) Program will first ask for a dollar amount (no cents). This is the total amount you wish to invest. Commas will be stripped out. Periods won't.
 
 Output:
 The program will automatically calculate the amounts to invest in (in order):
