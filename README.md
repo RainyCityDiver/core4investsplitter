@@ -30,7 +30,7 @@ Roadmap:
 UNDER CONSTRUCTION
 
 CONTRIBUTIONS:
-Contributions are welcome, preferably as messages to the creator containing suggestions to enhance functionality/fix bugs, with template code attached so the creator can problem-solve or implement new code on their own. The creator is currently building experience with Python 3, and with coding in general. Allowing the creator to learn and develope their skills is of more value than providing functional code and saying "put this in line X". Thank you for your understanding.
+Code contributions are welcome, preferably as messages to the creator containing suggestions to enhance functionality/fix bugs, with template code attached so the creator can problem-solve or implement new code on their own. The creator is currently building experience with Python 3, and with coding in general. Allowing the creator to learn and develope their skills is of more value than providing functional code and saying "put this in line X". Thank you for your understanding.
 
 PROJECT STATUS
 The Core 4 Investment Splitter is under developement. 
