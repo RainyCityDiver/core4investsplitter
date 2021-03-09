@@ -4,6 +4,7 @@ I'm not kidding; investing is inherently risky and you could lose real money. Pr
 
 Description:
 This code is useful *if* you wish to use the 60-40 Core 4 "lazy portfolio" developed by Rick Ferri on the Bogleheads® forum (https://www.bogleheads.org/forum/viewtopic.php?t=10413). 
+Built with Python 3
 
 Investing is inherently risky and YOU COULD LOSE REAL MONEY. The creator of this code isn't responsible for anything, much less what you may do, think, or say. This was a practice exercise for the creator and is not intended to be anything else.
 
